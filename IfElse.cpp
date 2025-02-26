@@ -14,7 +14,7 @@ Take the age from the user and then decide accordingly
 */
 
 int main() { 
-    int age;
+    int age; 
     cin >> age; 
     if(age<18) {
         cout << "not eligible for job";
