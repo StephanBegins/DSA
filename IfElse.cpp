@@ -13,7 +13,7 @@ Take the age from the user and then decide accordingly
     print-> "retirement time"
 */
 
-int main() {
+int main() { 
     int age;
     cin >> age; 
     if(age<18) {
